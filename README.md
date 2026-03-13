@@ -26,7 +26,7 @@ SecureVideo is a modern, secure video sharing platform built with Next.js and Su
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/exclusiveabhi/secure-video-mern-project.git
+   https://github.com/Mitultopiya/Secure-Video-Mern-Project.git
    cd secure-video-upload
    ```
 
