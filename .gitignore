@@ -1,0 +1,12 @@
+.env
+node_modules
+supabase/.branches
+supabase/.temp
+setup-db.bat
+supabase/migrations
+supabase/.supabase
+supabase/.config
+.DS_Store
+.vscode
+.next
+setup-db.sh
